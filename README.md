@@ -1,2 +1,2 @@
-# automation
-A collection of scripts I've written to automate everyday tasks.
+# Automation 🤖
+A collection of scripts to automate everyday tasks.
